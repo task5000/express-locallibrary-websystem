@@ -183,42 +183,42 @@ async function createBookInstances() {
     bookInstanceCreate(
       3,
       books[3],
-      "New York Tom Doherty Associates, 2016.",
+      "Takaki sanjou.2026.6.3",
       false,
       "Available"
     ),
     bookInstanceCreate(
       4,
       books[3],
-      "New York Tom Doherty Associates, 2016.",
+      "Takaki sanjou.2026.6.3",
       false,
       "Available"
     ),
     bookInstanceCreate(
       5,
       books[3],
-      "New York Tom Doherty Associates, 2016.",
+      "Takaki sanjou.2026.6.3",
       false,
       "Available"
     ),
     bookInstanceCreate(
       6,
       books[4],
-      "New York, NY Tom Doherty Associates, LLC, 2015.",
+      "Takaki  ga sanjou.2026.6.3",
       false,
       "Available"
     ),
     bookInstanceCreate(
       7,
       books[4],
-      "New York, NY Tom Doherty Associates, LLC, 2015.",
+      "Takaki  ga sanjou.2026.6.3",
       false,
       "Maintenance"
     ),
     bookInstanceCreate(
       8,
       books[4],
-      "New York, NY Tom Doherty Associates, LLC, 2015.",
+      "Takaki  ga sanjou.2026.6.3",
       false,
       "Loaned"
     ),
